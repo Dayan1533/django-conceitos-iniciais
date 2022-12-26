@@ -34,6 +34,7 @@ Clique no link que será mostrado no terminal para ser redirecionado para a pág
 <p>
     <img src="assets/readme/exImg.png">
 </p>
+
 ## Documentação
 
 Para caso de dúvidas, segue a 
