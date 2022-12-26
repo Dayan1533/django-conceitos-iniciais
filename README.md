@@ -31,7 +31,6 @@ Execute o seguinte comando para rodar o projeto:
   pyhton manage.py runserver
 ```
 Clique no link que será mostrado no terminal para ser redirecionado para a página.
-![alt text](assets/readme/exImg.png)
 <p align="center">
     <img src="assets/readme/exImg.png">
 </p>
