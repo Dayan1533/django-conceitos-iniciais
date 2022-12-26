@@ -30,7 +30,7 @@ Execute o seguinte comando para rodar o projeto:
 ```bash
   pyhton manage.py runserver
 ```
-Clique no link que será mostrado no terminal para ser redirecionado para a página.
+Clique no link http que será mostrado no terminal para ser redirecionado para a página.
 <p>
     <img src="assets/readme/exImg.png">
 </p>
