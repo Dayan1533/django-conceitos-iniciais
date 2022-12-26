@@ -32,7 +32,9 @@ Execute o seguinte comando para rodar o projeto:
 ```
 Clique no link que será mostrado no terminal para ser redirecionado para a página.
 ![alt text](assets/readme/exImg.png)
-
+<p align="center">
+    <img src="assets/readme/exImg.png">
+</p>
 ## Documentação
 
 Para caso de dúvidas, segue a 
